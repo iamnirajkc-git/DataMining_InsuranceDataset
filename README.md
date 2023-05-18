@@ -1,2 +1,3 @@
 # DataMining_InsuranceDataset
 Comparing data mining tecgnique like regression and classification for insurance dataset for explaing two research question.
+In this project, regression techniques were used to estimate the medical cost based on health and demographic data, achieving an R-squared value of 76%. Furthermore, classification techniques were employed to recommend appropriate insurance packages based on individual characteristics. The decision tree model demonstrated an accuracy of 88.22% in classifying the data, surpassing the accuracy of the KNN model, which achieved 72%. Thus, based on the classification results, the decision tree model proved to be the best classification model for the insurance dataset.
